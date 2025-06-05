@@ -1,6 +1,6 @@
 # 🧪 Homebrew Tap: `chat`
 
-This repo is the **Homebrew formula** for installing [CLI-Chat 🦉](https://github.com/Onaga08/chat-server) — a cross-platform, authenticated, real-time terminal chat client.
+This repo is the **Homebrew formula** for installing [CLI-Chat 🦉](https://github.com/Onaga08/CLI-Chat) — a cross-platform, authenticated, real-time terminal chat client.
 
 > “Why use Slack when you can vibe in the terminal?”
 
@@ -29,7 +29,7 @@ It'll ask you for a nickname and token (because even owls need ID 🪪).
 
 Want to see the full code or contribute?
 Fly over to the main repo:
-👉 [Onaga08/chat-server](https://github.com/Onaga08/chat-server)
+👉 [Onaga08/chat-server](https://github.com/Onaga08/CLI-Chat)
 
 ---
 
@@ -46,7 +46,7 @@ Fly over to the main repo:
 ## 💡 Notes
 
 * This tap only delivers the macOS version (via `brew`).
-* If you're on Windows, grab the `.exe` from [Releases](https://github.com/Onaga08/chat-server/releases).
+* If you're on Windows, grab the `.exe` from [Releases](https://github.com/Onaga08/CLI-Chat/releases).
 * Linux folks can use `python chat.py` — you're daring, figure it out 😉
 
 ---
