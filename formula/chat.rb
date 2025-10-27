@@ -5,7 +5,7 @@ class Chat < Formula
   homepage "https://github.com/<yourusername>/chat_server"
   url "https://github.com/Onaga08/CLI-Chat/archive/refs/tags/v1.0.0.tar.gz"
   # https://github.com/Onaga08/CLI-Chat/archive/refs/tags/v1.0.0.tar.gz
-  sha256 "2447440dfc9ae892ccd5e2748d926d1656d64ea61b85af80e412b0e1ab62433e"
+  sha256 "99c1f46574acddb2fabbb5b0cbf615e118ef8d3bc95d9989a4a7926e38d76e7d"
   license "MIT"
 
   depends_on "python@3.11"
