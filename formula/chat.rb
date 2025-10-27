@@ -3,7 +3,8 @@ class Chat < Formula
 
   desc "Real-time CLI chat client using WebSockets"
   homepage "https://github.com/<yourusername>/chat_server"
-  url "https://github.com/Onaga08/chat_server/archive/refs/tags/v0.1.0.tar.gz"
+  url "https://github.com/Onaga08/CLI-Chat/archive/refs/tags/v1.0.0.tar.gz"
+  # https://github.com/Onaga08/CLI-Chat/archive/refs/tags/v1.0.0.tar.gz
   sha256 "2447440dfc9ae892ccd5e2748d926d1656d64ea61b85af80e412b0e1ab62433e"
   license "MIT"
 
