@@ -47,7 +47,7 @@ class Chat < Formula
   end
 
   resource "pygments" do
-    uurl "https://files.pythonhosted.org/packages/e2/3e/b5aeeb6a2c339d2ee686ff8e5282ea5fb4df21098c81429937732c07f911/pygments-2.19.2.tar.gz"
+    url "https://files.pythonhosted.org/packages/e2/3e/b5aeeb6a2c339d2ee686ff8e5282ea5fb4df21098c81429937732c07f911/pygments-2.19.2.tar.gz"
     sha256 "636cb2477cec7f8952536970bc533bc43743542f70392ae026374600add5b887"
   end
 
