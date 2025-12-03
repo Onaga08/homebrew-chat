@@ -42,7 +42,7 @@ class Chat < Formula
   end
 
   resource "python-dotenv" do
-    url "https://files.pythonhosted.org/packages/source/p/python-dotenv/python-dotenv-1.2.1.tar.gz"
+    url "https://files.pythonhosted.org/packages/f0/26/19cadc79a718c5edbec86fd4919a6b6d3f681039a2f6d66d14be94e75fb9/python_dotenv-1.2.1.tar.gz"
     sha256 "42667e897e16ab0d66954af0e60a9caa94f0fd4ecf3aaf6d2d260eec1aa36ad6"
   end
 
